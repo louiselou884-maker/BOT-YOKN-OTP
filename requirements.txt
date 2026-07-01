@@ -1,0 +1,5 @@
+protobuf
+pycryptodome
+requests
+python-telegram-bot==20.8
+urllib3
